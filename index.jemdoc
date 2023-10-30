@@ -1,0 +1,22 @@
+# jemdoc: menu{menu}{default.html}
+= Chengpiao Huang
+
+~~~
+{}{img_left}{Photos/Chengpiao_Huang.png}{alt text}{236}{205}
+
+I am a second-year PhD student in the [https://www.ieor.columbia.edu/ Department of Industrial Engineering and Operations Research] at [https://www.columbia.edu/ Columbia University], advised by Prof. [https://kw2934.github.io/ Kaizheng Wang].\n
+\n 
+Prior to joing Columbia, I obtained a Bachelor's degree in Mathematics and Applied Mathematics at [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen].\n
+\n
+E-mail: /chengpiao.huang/ \[@\] columbia \[DOT\] edu
+\n
+~~~
+
+== Research Interest
+
+I am interested in optimization and statistical machine learning. Recently I am working on non-stationary online learning.
+
+== News
+
+- Our paper "A Stability Principle for Learning under Non-Stationarity" is posted on [https://arxiv.org/abs/2310.18304 arXiv]!
+- We (Kaizheng Wang, Yuhang Wu and I) won second place in the [https://sites.google.com/view/dmdaworkshop2023/data-challenge 2023 INFORMS Blue Summit Supplies Data Challenge]! We also ranked first in the two-week live test of pricing and profit forecasting. 
