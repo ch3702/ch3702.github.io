@@ -1,15 +1,16 @@
 # jemdoc: menu{menu}{research.html}
-= Preprints
+= Paper and Preprint
 
 2024\n
-- Model Assessment and Selection under Temporal Distribution Shift\n
+- *Model Assessment and Selection under Temporal Distribution Shift*\n
 Elise Han, Chengpiao Huang, Kaizheng Wang \n
-[https://arxiv.org/abs/2402.08672 arXiv] preprint arXiv:2402.08672, 2024. ~~~~[https://github.com/eliselyhan/ARW Code]\n
+/International Conference on Machine Learning, 2024/\n
+[https://arxiv.org/abs/2402.08672 arXiv] ~~~~[https://github.com/eliselyhan/ARW Code]\n
 \n
 
 2023\n
-- A Stability Principle for Learning under Non-Stationarity\n
+- *A Stability Principle for Learning under Non-Stationarity*\n
 Chengpiao Huang, Kaizheng Wang \n
-[https://arxiv.org/abs/2310.18304 arXiv] preprint arXiv:2310.18304, 2023. \n\n
+[https://arxiv.org/abs/2310.18304 arXiv] /preprint arXiv:2310.18304, 2023/ \n\n
 
 Author names are listed in alphabetical order.
