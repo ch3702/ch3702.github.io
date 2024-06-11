@@ -1,7 +1,15 @@
 # jemdoc: menu{menu}{research.html}
-= Paper and Preprint
+= Paper and Preprints
+
+Author names are listed in alphabetical order.
 
 2024\n
+
+- *Distribution-Free Predictive Inference under Unknown Temporal Drift*\n
+Elise Han, Chengpiao Huang, Kaizheng Wang \n
+[https://arxiv.org/abs/2406.06516 arXiv] /preprint arXiv:2406.06516, 2024/  ~~~~[https://github.com/eliselyhan/predictive-inference Code]\n
+\n
+
 - *Model Assessment and Selection under Temporal Distribution Shift*\n
 Elise Han, Chengpiao Huang, Kaizheng Wang \n
 /International Conference on Machine Learning, 2024/\n
@@ -12,5 +20,3 @@ Elise Han, Chengpiao Huang, Kaizheng Wang \n
 - *A Stability Principle for Learning under Non-Stationarity*\n
 Chengpiao Huang, Kaizheng Wang \n
 [https://arxiv.org/abs/2310.18304 arXiv] /preprint arXiv:2310.18304, 2023/ \n\n
-
-Author names are listed in alphabetical order.
